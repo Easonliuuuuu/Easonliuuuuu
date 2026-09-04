@@ -48,9 +48,9 @@
 
 A terminal-native CLI for harness engineering around AI agent coding workflows. Every task becomes an observable node graph with automated testing, bounded retries, approval gates, token budgets, and per-node model configuration.
 
-### [Mini-Ansible](https://github.com/Easonliuuuuu/Mini-Ansible) &nbsp;<img alt="Infrastructure Automation" src="https://img.shields.io/badge/Infrastructure%20Automation-334155?style=flat-square"> <img alt="Config Management" src="https://img.shields.io/badge/Config%20Management-0F766E?style=flat-square">
+### [vsfleet](https://github.com/Easonliuuuuu/vsfleet) &nbsp;<img alt="vSphere Tooling" src="https://img.shields.io/badge/vSphere%20Tooling-334155?style=flat-square"> <img alt="Go CLI + TUI" src="https://img.shields.io/badge/Go%20CLI%20%2B%20TUI-0F766E?style=flat-square"> <img alt="last commit" src="https://img.shields.io/github/last-commit/Easonliuuuuu/vsfleet?style=flat-square&color=555">
 
-Runs YAML playbooks across many remote servers concurrently over SSH — a small, readable take on how config-management tooling actually works.
+Browse VMware vSphere inventory across all your vCenters from one terminal — a Go CLI and TUI that gives vSphere operators one fast view of the VMs, hosts, and clusters spread across many vCenters.
 
 ### [FirearmDB-MCP](https://github.com/Easonliuuuuu/FirearmDB-MCP) &nbsp;<img alt="MCP Server" src="https://img.shields.io/badge/MCP%20Server-334155?style=flat-square"> <img alt="Structured Data API" src="https://img.shields.io/badge/Structured%20Data%20API-0F766E?style=flat-square">
 
