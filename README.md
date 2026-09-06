@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eason 👋</h1>
 
 <p align="center">
-  <b>DevOps Engineer at Dell</b> — on-prem private cloud platforms (VxRail, Dell Private Cloud) and the release pipelines that ship them.<br>
+  <b>DevOps Engineer</b> — on-prem private cloud platforms and the release pipelines that ship them.<br>
   Distributed systems · cloud-native platforms · developer tooling · open source.
 </p>
 
@@ -36,7 +36,7 @@
 
 | | |
 |---|---|
-| ☁️ **Private cloud** | VxRail HCI and Dell Private Cloud — full-stack lifecycle automation |
+| ☁️ **Private cloud** | HCI and Private Cloud — full-stack lifecycle automation |
 | 🚀 **Release engineering** | CI/CD, pipeline design, continuously validated release bundles |
 | ⚓ **Kubernetes** | Cloud-native platform operations |
 | 🔧 **Developer tooling** | Making the paved path the fast path |
