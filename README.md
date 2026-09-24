@@ -9,9 +9,7 @@ I build release pipelines and full-stack lifecycle automation for on-prem privat
 
 ## Open Source
 
-**[OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)** — vCenter receiver
-- Per-receiver `proxy_url` configuration ([#51191](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/51191), in review)
-- Corrected feature-gate documentation ([#51434](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/51434), merged)
+Contributions to upstream projects such as OpenTelemetry: [my pull requests →](https://github.com/search?q=is%3Apr+author%3AEasonliuuuuu+-user%3AEasonliuuuuu&type=pullrequests)
 
 ## Projects
 
