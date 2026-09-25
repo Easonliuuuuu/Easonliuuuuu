@@ -37,9 +37,5 @@ A structured reference dataset (616 firearms, 365 cartridges, 407 manufacturers)
 
 ## Tools
 
-Go · Python · TypeScript · Bash · Kubernetes · Docker · Ansible · GitHub Actions · OpenTelemetry · VMware vSphere · Linux
+Go · Python · Bash · Kubernetes · Docker · GitHub Actions · OpenTelemetry · VMware vSphere · Linux
 
-## Currently
-
-- Upstreaming vCenter receiver improvements to OpenTelemetry
-- Building harness tooling that makes AI coding agents observable and bounded
