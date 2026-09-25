@@ -9,7 +9,7 @@ I build release pipelines and deployment tooling for private cloud platforms. My
 
 ## Open Source
 
-Contributions to upstream projects such as OpenTelemetry: [my pull requests →](https://github.com/search?q=is%3Apr+author%3AEasonliuuuuu+-user%3AEasonliuuuuu&type=pullrequests)
+Contributions to upstream projects such as OpenTelemetry: [my pull requests (2026 onward) →](https://github.com/search?q=is%3Apr+author%3AEasonliuuuuu+-user%3AEasonliuuuuu+created%3A%3E%3D2026-01-01&type=pullrequests)
 
 ## Projects
 
