@@ -2,7 +2,7 @@
 
 **Software Engineer at Dell** · Taipei, Taiwan
 
-I build release pipelines and full-stack lifecycle automation for on-prem private cloud (HCI) platforms, and the developer tooling that keeps infrastructure teams fast.
+I build release pipelines and deployment tooling for private cloud platforms. My work spans Kubernetes workloads and storage, containerized microservices, and virtual environments that help developers test cluster behavior.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/easonliu-profile/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:easoneastin@gmail.com)
