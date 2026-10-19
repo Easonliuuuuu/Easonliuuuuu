@@ -21,7 +21,6 @@ Read-only vSphere estate assessment and diagnostics across every vCenter, from o
 - Read-only by design: never powers VMs, reverts snapshots, or changes networks or inventory
 - Per-context proxy routing (SOCKS5 / HTTP / HTTPS CONNECT) and OS-keyring credentials, no plaintext secrets
 - Historical drift tracking in SQLite, RVTools-compatible Excel export and import for migration sizing
-- CI with whole-suite coverage, fuzzing, Kubernetes E2E, and a PTY-driven TUI test harness
 - Ships via Homebrew, WinGet, Scoop, `.deb`/`.rpm` packages, a container image, and GitHub Releases
 
 [Documentation →](https://easonliuuuuu.github.io/vsfleet/)
