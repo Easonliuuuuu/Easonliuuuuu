@@ -11,29 +11,20 @@ I build release pipelines and deployment tooling for private cloud platforms. My
 
 Contributions to upstream projects such as OpenTelemetry: [my pull requests (2026 onward) →](https://github.com/search?q=is%3Apr+author%3AEasonliuuuuu+-user%3AEasonliuuuuu+created%3A%3E%3D2026-01-01&type=pullrequests)
 
-## Projects
+## Project
 
 ### [vsfleet](https://github.com/Easonliuuuuu/vsfleet) · Go
 
-Read-only vSphere estate assessment and diagnostics across every vCenter, from one CLI and terminal UI.
+Read-only vSphere estate assessment and diagnostics across every vCenter, from one CLI and terminal UI on Linux, macOS, or Windows.
 
 - Queries many vCenters in parallel and returns partial results when a site is unreachable
-- Per-context proxy routing (SOCKS5 / HTTP CONNECT) and OS-keyring credentials, no plaintext secrets
+- Read-only by design: never powers VMs, reverts snapshots, or changes networks or inventory
+- Per-context proxy routing (SOCKS5 / HTTP / HTTPS CONNECT) and OS-keyring credentials, no plaintext secrets
 - Historical drift tracking in SQLite, RVTools-compatible Excel export and import for migration sizing
-- CI with whole-suite coverage, Kubernetes E2E, and a PTY-driven TUI test harness; ships via Homebrew and GitHub Releases
+- CI with whole-suite coverage, fuzzing, Kubernetes E2E, and a PTY-driven TUI test harness
+- Ships via Homebrew, WinGet, Scoop, `.deb`/`.rpm` packages, a container image, and GitHub Releases
 
-### [flow-code](https://github.com/Easonliuuuuu/flow-code) · TypeScript
-
-A terminal-native node-graph interface for running and observing agentic coding workflows.
-
-- Each step is a live card with status, model, token spend, and streaming output
-- Test failures route back upstream with bounded retries; the verdict is an exit code, not an opinion
-- Structural approval gates: a graph that can reach git without passing a gate is rejected at load time
-- Hard token and time budgets per node and per run
-
-### [FirearmDB-MCP](https://github.com/Easonliuuuuu/FirearmDB-MCP) · Python
-
-A structured reference dataset (616 firearms, 365 cartridges, 407 manufacturers) served as a FastAPI REST API and as an MCP server for agent clients.
+[Documentation →](https://easonliuuuuu.github.io/vsfleet/)
 
 ## Tools
 
